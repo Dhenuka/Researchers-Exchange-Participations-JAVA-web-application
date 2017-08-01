@@ -1,0 +1,2 @@
+# Researchers-Exchange-Participations-JAVA-web-application
+Researchers Exchange Participations is a platform for researchers to exchange participants. The aim of this platform is to encourage researchers participate in each other’s user studies. Moreover, recruiting serious participants has been always a burden on a researcher's shoulder, thus, this platform gives researchers the opportunity to do that effectively and in a suitable time.
